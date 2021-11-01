@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <head>
+  <title>adilet's portfolio</title>
+  </head>
 <body>
 
 <p>I am normal</p>
