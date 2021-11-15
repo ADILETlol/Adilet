@@ -1,0 +1,35 @@
+body{
+    background: url(b013bff644ef60d151cd69dd2c3092b3.jpg);
+    background-size: cover  ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    font-style: normal;
+}
+.links{
+    position: fixed;
+    color: aliceblue;
+    font-size: 20px;
+    left: 20px;
+    bottom: 20px;
+}
+.links a{
+    color: aliceblue;
+}
+.links a:hover{
+    color: rgb(225, 0, 255);
+}
+.sign_link{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    font-style: normal;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
