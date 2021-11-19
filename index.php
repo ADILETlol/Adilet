@@ -7,7 +7,12 @@
     <link rel="stylesheet" href="styles.css"> 
     <title>AdiHub</title>
 </head>
-<body>
+    <style>
+        body{
+            backgroung-color:black;
+            {
+    </style>
+    <body>
     <p>WELCOME TO MY SITE</p>
     <a class="sign_link" href="signhub.html">sign up</a>
     <div class="links">
