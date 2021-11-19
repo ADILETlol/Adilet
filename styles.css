@@ -7,7 +7,7 @@ p{
     color: black;
     font-size: 50px;
     text-align: center;
-    font-style: normal;o
+    font-style: normal;
 }
 .links{
     position: fixed;
@@ -20,7 +20,7 @@ p{
     color: black;
 }
 .links a:hover{
-    color: rgb(225, 0, 255);
+    color: black;
 }
 .sign_link{
     color: black;
